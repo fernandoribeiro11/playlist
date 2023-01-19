@@ -6,6 +6,16 @@
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT INTERIOR SP" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="AQUECIMENTO",SBT Interior SP
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
+#EXTINF:-1 vg-id="RecordNews.br" tvg-name="Record News"tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="AQUECIMENTO",Record News
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 vg-id="RedeTV.br" tvg-name="RedeTV! TV Pantanal (MT)" tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanalredetv.png" group-title="AQUECIMENTO", RedeTV! TV Pantanal (MT)
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+
+#EXTINF: tvg-id="ViaMorena.br" tvg-name="VIA MORENA" -1 tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png" group-title="AQUECIMENTO", Via Morena
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
+
+
 
 
 
