@@ -4,6 +4,25 @@
 ############### AQUECIMENTO
 
 
+#EXTINF:-1,|FR| NAT GEO WILD HD
+http://mjidiptv.com:1997/asem/1234567890/5260
+#EXTINF:-1,|FR| NAT GEO WILD
+http://mjidiptv.com:1997/asem/1234567890/9844
+#EXTINF:-1,|FR| NATIONAL GEOGRAPHIC FHD
+http://mjidiptv.com:1997/asem/1234567890/72462
+#EXTINF:-1,|FR| NATIONAL GEO HD
+http://mjidiptv.com:1997/asem/1234567890/5261
+#EXTINF:-1,|FR| NATIONAL GEO
+http://mjidiptv.com:1997/asem/1234567890/9843
+#EXTINF:-1,|FR| DISCOVERY HD
+http://mjidiptv.com:1997/asem/1234567890/5263
+#EXTINF:-1,|FR| DISCOVERY
+http://mjidiptv.com:1997/asem/1234567890/9842
+#EXTINF:-1,|FR| DISCOVERY CH FHD
+http://mjidiptv.com:1997/asem/1234567890/72460
+#EXTINF:-1,|FR| DISCOVERY SCIENCE HD
+http://mjidiptv.com:1997/asem/1234567890/526
+
 
 
 
@@ -25,13 +44,11 @@ http://meumd.com:80/CharleiEvangelista/qe8WCOCT/109725
 
 ############### A Canais : RedeTV
 
-#EXTINF:-1 vg-id="RedeTV.br" tvg-name="RedeTV! TV Pantanal (MT)" tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanalredetv.png" group-title="A Canais : RedeTV", RedeTV! TV Pantanal (MT) (480x360)
-https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 
 #EXTINF:-1 vg-id="RedeTV!.br" tvg-name="RedeTV!" tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="A Canais : RedeTV", RedeTV!
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVPampa.br" tvg-logo="https://i.imgur.com/Cnc1Mqo.png" group-title="General",Rede TV! Pampa (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVPampa.br" tvg-logo="https://i.imgur.com/Cnc1Mqo.png" group-title="General",Rede TV! Pampa (720p)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/SEe2ki7.png" group-title="General",RedeTV! Tocantins (720p) 
@@ -61,35 +78,38 @@ https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
 
 ############### A Canais : Variedades
 
-#EXTINF:-1 tvg-id="RedeCNTCuiaba.br" tvg-logo="https://i.imgur.com/B8e1Uyx.png" group-title="A Canais : Variedades",Rede CNT Cuiaba (360p)
-https://d1s664t39qub1o.cloudfront.net/live/cnt-cuiaba_360p614k/index.m3u8
 
-#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="Agro Brasil TV" tvg-logo="https://lh3.googleusercontent.com/-00CmxR8xryU/X0Ebq0uxBtI/AAAAAAAA41w/V0PnogwdT8Yn4QYJ26hqsGEO_tP_Lo5OACK8BGAsYHg/s0/2020-08-22.png" group-title="A Canais : Variedades", Agro Brasil TV | BR
+#EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="Agro Brasil TV" tvg-logo="https://lh3.googleusercontent.com/-00CmxR8xryU/X0Ebq0uxBtI/AAAAAAAA41w/V0PnogwdT8Yn4QYJ26hqsGEO_tP_Lo5OACK8BGAsYHg/s0/2020-08-22.png" group-title="A Canais : Variedades", Agro Brasil TV | BR (1280p)
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara" tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="A Canais : Variedades",TV Câmara
+#EXTINF:-1 tvg-id="TVCamara.br" tvg-name="TV Câmara" tvg-logo="http://i.imgur.com/no1Al0A.png" group-title="A Canais : Variedades",TV Câmara (1920p)
 http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
 
-#EXTINF: tvg-id="ViaMorena.br" tvg-name="VIA MORENA" -1 tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png" group-title="A Canais : Variedades", Via Morena
+#EXTINF: tvg-id="ViaMorena.br" tvg-name="VIA MORENA" -1 tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png" group-title="A Canais : Variedades", Via Morena (1280p)
 https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeUTV.br" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title="A Canais : Variedades",Rede UTV
+#EXTINF:-1 tvg-id="RedeUTV.br" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title="A Canais : Variedades",Rede UTV (1920p)
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
 
 ############### A Canais : SBT
 
-#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="A Canais : SBT",SBT Interior (720p)
+#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="A Canais : SBT",SBT Interior (720pp)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeMassa.br" tvg-logo="https://i.imgur.com/yFRqXIx.png" group-title="A Canais : SBT",SBT Rede Massa (720p) 
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT INTERIOR SP" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="AQUECIMENTO",SBT Interior SP
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT INTERIOR SP" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="A Canais : SBT",SBT SP Interior (1280p)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="AQUECIMENTO",SBT SP
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="A Canais : SBT",SBT SP (1280p)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="SBT PE" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="A Canais : SBT", SBT PE (640p)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="SBT PE" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="A Canais : SBT", SBT PE Interior (1280p)
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeMassa.br" tvg-logo="https://i.imgur.com/yFRqXIx.png" group-title="A Canais : SBT",SBT Rede Massa (1280p) 
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 ############### A Filmes
 
 
